@@ -1,4 +1,4 @@
-flyingelk's CISSP Starter Resources
+CISSP Starter Resources & Tips
 --
 
 **Introduction**
